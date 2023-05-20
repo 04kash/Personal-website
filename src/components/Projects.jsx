@@ -68,24 +68,7 @@ horizontally and diagonally for 4 pieces in a row.
                    </ul>
                 </Col>
             </Row>
-//             </Container>
-//             <h1>In progress...</h1>
-//            <Container>
-//            <Row className='unit last-row'>
-//                 <Col  md={4}>
-//                 <h1>SwiftXplore</h1>
-//                 </Col>
-//                 <Col className='bd' md={6}>
-//                    <ul>
-//                     <li>This project was made as a part of NewHacks 2022. Google Maps lets you find directions but not plan a trip. This project allows new students at UofT to explore Toronto in the fastest and safest way possible.</li>
-// <li>The project uses a genetic algorithm to calculate the safest and most efficient route between a list of attractions that a user inputs. It then uses Google API to display this most efficient route and directions.
-// </li>
-// <li>We managed to create a working genetic algorithm, a working user interface, and a working representation of each route. We are currently incorporating frameworks such as React.js and and Django to connect all these parts together and get a working App.
-// </li>
-//                    </ul>
-//                 </Col>
-//             </Row>
-//             </Container>
+             </Container>
             </section>
             
     
