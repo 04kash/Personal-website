@@ -16,7 +16,7 @@ function Projects(){
                     <li>Developed an algorithm to determine the compellingness of twitter tweets, where the compellingness of a textual post
 is defined as the degree to which it successfully incorporates pathos(emotion) and logos (reasoning)
 </li>
-<li>Incorporated Parse Trees, parts of speech tagging and sentiment analysis using ibraries such as SpaCy and NLTK and used the Flask framework to customize UI more freely and allow users to run Compel-O-Meter on the web.
+<li>Incorporated Parse Trees, parts of speech tagging and sentiment analysis using libraries such as SpaCy and NLTK and used the Flask framework to customize UI more freely and allow users to run Compel-O-Meter on the web.
 </li>
 <li> Created an AI powered Lexicon to address the shortcomings caused by using a lexicon with fixed number of words.
 </li>
