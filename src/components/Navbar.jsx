@@ -53,6 +53,7 @@ function NavBar(){
                 <a href='https://www.instagram.com/_04kashish_/'><span><FontAwesomeIcon icon={faInstagram} className='ci'/></span></a>
                 <a href='https://github.com/04kash'><span><FontAwesomeIcon icon={faGithub} className='ci'/></span></a>
                 <a href='mailto:m04kashish@gmail.com'><span><FontAwesomeIcon icon={faEnvelope} className='ci' /></span></a>
+                <a href='https://www.linkedin.com/in/kashish-mittal-084523262/'><span><FontAwesomeIcon icon={faLinkedin} /></span></a>
             </div>
           </span>
           
