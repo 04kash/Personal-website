@@ -5,7 +5,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import logo from '../assests/images/logoweb.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import {faInstagram, faGithub, faLinkedinIn} from '@fortawesome/free-brands-svg-icons'
+import {faGithub, faLinkedinIn, faInstagram} from '@fortawesome/free-brands-svg-icons'
 import {faEnvelope} from '@fortawesome/free-solid-svg-icons'
 
 
