@@ -5,7 +5,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import logo from '../assests/images/logoweb.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import {faInstagram, faGithub} from '@fortawesome/free-brands-svg-icons'
+import {faInstagram, faGithub, faLinkedinIn} from '@fortawesome/free-brands-svg-icons'
 import {faEnvelope} from '@fortawesome/free-solid-svg-icons'
 
 
@@ -50,10 +50,9 @@ function NavBar(){
           </Nav>
           <span className='navbar-text'>
             <div className='social-icon'>
-                <a href='https://www.instagram.com/_04kashish_/'><span><FontAwesomeIcon icon={faInstagram} className='ci'/></span></a>
                 <a href='https://github.com/04kash'><span><FontAwesomeIcon icon={faGithub} className='ci'/></span></a>
                 <a href='mailto:m04kashish@gmail.com'><span><FontAwesomeIcon icon={faEnvelope} className='ci' /></span></a>
-                <a href='https://www.linkedin.com/in/kashish-mittal-084523262/'><span><FontAwesomeIcon icon={faLinkedin} /></span></a>
+                <a href='https://www.linkedin.com/in/kashish-mittal-084523262/'><span><FontAwesomeIcon icon={faLinkedinIn} className='ci'/></span></a>
             </div>
           </span>
           

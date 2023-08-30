@@ -3,7 +3,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import logo from '../assests/images/logoweb.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import {faInstagram, faGithub, faLinkedin} from '@fortawesome/free-brands-svg-icons'
+import {faInstagram, faGithub, faLinkedinIn} from '@fortawesome/free-brands-svg-icons'
 import {faEnvelope} from '@fortawesome/free-solid-svg-icons'
 import "bootstrap/dist/css/bootstrap.min.css";
 function Footer(){
@@ -23,10 +23,9 @@ function Footer(){
            <Col></Col>
            <Col>
             <div className='social-icon footer'>
-                <a href='https://www.instagram.com/_04kashish_/'><span><FontAwesomeIcon icon={faInstagram} className='ci'/></span></a>
                 <a href='https://github.com/04kash'><span><FontAwesomeIcon icon={faGithub} className='ci'/></span></a>
                 <a href='mailto:m04kashish@gmail.com'><span><FontAwesomeIcon icon={faEnvelope} className='ci' /></span></a>
-                <a href='https://www.linkedin.com/in/kashish-mittal-084523262/'><span><FontAwesomeIcon icon={faLinkedin} /></span></a>
+                <a href='https://www.linkedin.com/in/kashish-mittal-084523262/'><span><FontAwesomeIcon icon={faLinkedinIn} className='ci'/></span></a>
             </div>
             <p>Copyright {year}</p>
             </Col>
