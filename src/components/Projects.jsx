@@ -9,6 +9,39 @@ function Projects(){
            <Container>
                     <Row className='unit'>
                 <Col  md={4}>
+                <h1>DiscoverCity</h1>
+                </Col>
+                <Col className='bd' md={6}>
+                   <ul>
+                    <li> Successfully led a four-member team in developing DiscoverCity, a travel app that leverages the OpenTripMap
+API for location suggestions and stores user data in a JSON file.
+</li>
+<li> Achieved a significant milestone by implementing Clean Architecture principles and incorporating design patterns like Strategy and Simple Factory, ensuring future scalability and adaptability to evolving APIs
+
+</li>
+<li> Drove the creation of a comprehensive testing suite (unit, integration, end-to-end tests), covering 75% of the
+codebase, ensuring the app’s reliability.
+</li>
+                   </ul>
+                </Col>
+            </Row>
+            <Row className='unit'>
+                <Col  md={4}>
+                <h1>Academic Weapon</h1>
+                </Col>
+                <Col className='bd' md={6}>
+                   <ul>
+                    <li>A tool that transforms digital and handwritten notes into
+interactive flashcards and quizzes using GPT-3.5 and Microsoft Azure’s OCR.
+</li>
+<li>Spearheaded the project’s frontend development using React, ensuring a user-friendly and intuitive interface for
+flashcards and quizzes.
+</li>
+                   </ul>
+                </Col>
+            </Row>
+            <Row className='unit'>
+                <Col  md={4}>
                 <h1>Compel-O-Meter</h1>
                 </Col>
                 <Col className='bd' md={6}>
@@ -23,22 +56,7 @@ is defined as the degree to which it successfully incorporates pathos(emotion) a
                    </ul>
                 </Col>
             </Row>
-            <Row className='unit'>
-                <Col  md={4}>
-                <h1>Google Search-Clone</h1>
-                </Col>
-                <Col className='bd' md={6}>
-                   <ul>
-                    <li>Used HTML forms to Clone the Google main search and google images search.
-</li>
-<li>Designed buttons,search bars, adjusted size and position of images and other elements on the website using CSS and imported fonts using FontAwesome.
-</li>
-<li>User can type in a query in the search bar, click the search button and will be taken to google search results page.
-</li>
-                   </ul>
-                </Col>
-            </Row>
-            <Row className='unit'>
+               <Row className='unit'>
                 <Col  md={4}>
                 <h1>TinDog</h1>
                 </Col>
@@ -49,21 +67,6 @@ is defined as the degree to which it successfully incorporates pathos(emotion) a
 fonts from google fonts.
 </li>
 <li>Used bootstrap to design buttons, price tables, the navigation bar and the carousel with arrows.
-</li>
-                   </ul>
-                </Col>
-            </Row>
-            <Row className='unit'>
-                <Col  md={4}>
-                <h1>Connect4</h1>
-                </Col>
-                <Col className='bd' md={6}>
-                   <ul>
-                    <li>Developed a 2 player connect4 game to play with family and friends anytime and anywhere</li>
-<li>Represented the board as a 2D list and made use of functions, lists,conditional statements and nested loops.
-</li>
-<li>Implemented error handling, took all edge cases into consideration by making separate functions to check vertically,
-horizontally and diagonally for 4 pieces in a row.
 </li>
                    </ul>
                 </Col>
